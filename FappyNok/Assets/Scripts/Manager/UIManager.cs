@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class HomePageManager : MonoBehaviour
+public class UIManager : MonoBehaviour
 {
     public void Play()
     {
